@@ -14,8 +14,8 @@ function* nextText (array) {
 
 const texto = nextText(['Aquí me tienes amándote a gritos, a mi me gusta quererte en silencio', 
     'se le va a declarar a la poncha en unos cuantos días', 
-    'a la ponchiwis le mama ir a lokiar ', 
-    'aguuusto qque se pone echar wz con los panas',
+    'a la ponchiwis le mama el panecito ', 
+    'aguuusto que se pone echar wz con los panas',
     '<3'
 ]);
 
